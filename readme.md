@@ -1,1 +1,1 @@
-*portfolio with django
+*portfolio with djang
